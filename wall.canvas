@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"c08e5e9b0079b027","x":-5640,"y":-840,"width":2360,"height":3320,"type":"group","label":"Viben't Coding"},
+		{"id":"0f9c869a6891f750","x":-3200,"y":-800,"width":1540,"height":3428,"type":"group","label":"Etkinlik Bootcamp hachacton vs bul"},
+		{"id":"b2fa5c01c19d568b","x":-1600,"y":-800,"width":1520,"height":1360,"type":"group","label":"Satranç"},
+		{"id":"b515ca0f6624dfb9","x":-3180,"y":-780,"width":621,"height":894,"type":"link","url":"https://cohorts.patika.dev/cohorts"},
+		{"id":"67ac172da690cb50","x":-3180,"y":208,"width":621,"height":1120,"type":"link","url":"https://www.akbankgenclikakademisi.com/teknoloji-okuryazarligi-programi"},
+		{"id":"d45dff565cca01e8","x":-3180,"y":1408,"width":621,"height":1200,"type":"link","url":"https://www.risein.com/learn"},
+		{"id":"11d85cddf9cfc476","x":-2480,"y":-780,"width":560,"height":894,"type":"link","url":"https://coderspace.io/etkinlikler"},
+		{"id":"feb4cfa2ac3e4262","type":"link","url":"https://tsf.org.tr/antrenorluk-kurslari?view=tsfantrenortakvim","x":-1200,"y":-80,"width":1060,"height":600},
+		{"id":"300a8ebb742c1105","type":"link","url":"https://tsf.org.tr/mhk-takvim","x":-1200,"y":-720,"width":1060,"height":580},
+		{"id":"51c1e222d070ecfd","type":"text","text":"# Satranç \nHakemlik ve Antrenörlük kurslarını kontrol et","x":-1560,"y":-720,"width":319,"height":1240},
+		{"id":"982c4b9c3df4a109","x":-5640,"y":-800,"width":660,"height":640,"type":"link","url":"https://www.codewars.com/"},
+		{"id":"439643800f696dd3","x":-4980,"y":-800,"width":780,"height":640,"type":"link","url":"https://leetcode.com/"},
+		{"id":"0147596280a1c57c","x":-4200,"y":-800,"width":800,"height":640,"type":"link","url":"https://www.hackerrank.com/"},
+		{"id":"522511dabc114ae5","x":-4990,"y":-93,"width":790,"height":541,"type":"link","url":"https://replit.com/"},
+		{"id":"06479f21af2611a2","x":-4200,"y":-93,"width":800,"height":541,"type":"link","url":"https://stackoverflow.com/questions"},
+		{"id":"efa55008a0fafc7e","x":-4240,"y":520,"width":400,"height":400,"type":"link","url":"https://www.codility.com/"},
+		{"id":"f6f76d8c851a0305","x":-3800,"y":520,"width":400,"height":400,"type":"link","url":"https://projecteuler.net/"},
+		{"id":"55f9bb236bb0063a","x":-5600,"y":520,"width":400,"height":400,"type":"link","url":"https://exercism.org/"},
+		{"id":"401b71f9624af36d","x":-5180,"y":520,"width":400,"height":400,"type":"link","url":"https://codepen.io/"},
+		{"id":"09b3f9489b0f61fa","x":-4720,"y":520,"width":400,"height":400,"type":"link","url":"https://edabit.com/"}
+	],
+	"edges":[
+		{"id":"6b32d4c7a0ca0dfb","fromNode":"51c1e222d070ecfd","fromSide":"right","toNode":"300a8ebb742c1105","toSide":"left"},
+		{"id":"c2afd46b1d360dd0","fromNode":"51c1e222d070ecfd","fromSide":"right","toNode":"feb4cfa2ac3e4262","toSide":"left"}
+	]
+}
