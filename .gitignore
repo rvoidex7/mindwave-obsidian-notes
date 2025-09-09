@@ -1,0 +1,25 @@
+# ===================================================================
+# Obsidian Vault için Yüksek Güvenlikli ve Stabil .gitignore Dosyası
+# ===================================================================
+
+
+
+# 1. İşletim Sistemine Özel Dosyalar
+# macOS ve Windows tarafından oluşturulan gereksiz sistem dosyaları.
+.DS_Store
+Thumbs.db
+
+# 2. Obsidian'a Özel Geçici ve Cihaza Özgü Dosyalar
+# Obsidian'ın arama dizini ve diğer önbellekleri.
+.obsidian/cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+*.log
+
+# Son açılan dosyaların listesi.
+.obsidian/recent-files.json
+
+# 3. Eklenti
+.obsidian/plugins/*/data.json
+
