@@ -23,7 +23,7 @@ Thumbs.db
 # 3. Eklenti
 .obsidian/plugins/*/data.json
 
-
+.gitignore_dosyasina_eklenecekler_listesi.md
 anime-arşivi/
 waifu-avcisi/
 
